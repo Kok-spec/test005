@@ -5,6 +5,7 @@ module.exports = {
     extend: {
       fontFamily: {
         inter: ['"Inter"', 'sans-serif'],
+        noto: ['"Noto Sans JP"', 'sans-serif'],
       },
     },
   },
