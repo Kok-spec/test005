@@ -7,7 +7,7 @@ interface Props {
 const Desktop = ({ className }: Props) => {
   return (
     <div
-      className={`relative top-1.5 left-[-545px] w-[1440px] h-[1024px] flex flex-col bg-white ${className}`}
+      className={`relative top-1.5 left-0 w-[1440px] h-[1024px] flex flex-col bg-white ${className}`}
     >
       <img
         className="w-[1440px] h-[602px] object-cover"
